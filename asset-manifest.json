@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/holypulse2-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/holypulse2-test/static/js/main.29e18534.chunk.js",
+    "main.js.map": "/holypulse2-test/static/js/main.29e18534.chunk.js.map",
+    "runtime-main.js": "/holypulse2-test/static/js/runtime-main.b1621726.js",
+    "runtime-main.js.map": "/holypulse2-test/static/js/runtime-main.b1621726.js.map",
+    "static/js/2.e31af3b2.chunk.js": "/holypulse2-test/static/js/2.e31af3b2.chunk.js",
+    "static/js/2.e31af3b2.chunk.js.map": "/holypulse2-test/static/js/2.e31af3b2.chunk.js.map",
+    "index.html": "/holypulse2-test/index.html",
+    "precache-manifest.e14ccbcf1fcf6577baf267dda7169f21.js": "/holypulse2-test/precache-manifest.e14ccbcf1fcf6577baf267dda7169f21.js",
+    "service-worker.js": "/holypulse2-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/holypulse2-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e31af3b2.chunk.js.LICENSE.txt": "/holypulse2-test/static/js/2.e31af3b2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/holypulse2-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1621726.js",
+    "static/js/2.e31af3b2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.29e18534.chunk.js"
+  ]
+}
